@@ -69,6 +69,7 @@ export default hopeTheme({
       Rss: 'https://mo7.cc/atom.xml',
     },
   },
+  
 
   footer: footerICP_HTML,
   locales: {
